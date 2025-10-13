@@ -1,6 +1,4 @@
-
-function App() {
-
+export default function App() {
   return (
     <div className="size-[300px] bg-gradient-to-br from-slate-900 to-slate-800 text-white p-6 flex items-center justify-center">
       <div className="max-w-md mx-auto bg-slate-800/50 rounded-xl shadow-xl backdrop-blur-sm border border-slate-700">
@@ -11,7 +9,5 @@ function App() {
         </div>
       </div>
     </div>
-  )
+  );
 }
-
-export default App

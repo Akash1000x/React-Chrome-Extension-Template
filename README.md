@@ -14,12 +14,14 @@ A modern, Tailwind-powered starter template for creating Chrome browser extensio
 ### Installation
 
 1. Clone this repository
+
    ```bash
    git clone https://github.com/Akash1000x/React-Chrome-Extension-Template.git
    cd React-Chrome-Extension-Template
    ```
 
 2. Install dependencies
+
    ```bash
    npm install
    ```
@@ -32,6 +34,7 @@ A modern, Tailwind-powered starter template for creating Chrome browser extensio
 ### Building the Extension
 
 1. Build the extension
+
    ```bash
    npm run build
    ```
